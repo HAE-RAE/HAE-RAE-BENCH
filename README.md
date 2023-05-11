@@ -46,3 +46,9 @@ Models trained using existing data.
 |HyperClova lk-d     | 21.17%     | 14.37%      | 44.31%   | 12.66%       | 17.29%      |
 
 실험에 대한 자세한 사항은 본 github repository의 HAERAE_BENCH_Preview.pdf를 참고해주시길 바랍니다.
+
+
+
+## Acknowledgement
+
+This project is sponsored by OnelineAI(https://www.onelineai.com/)
