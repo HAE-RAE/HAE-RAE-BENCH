@@ -6,7 +6,7 @@
 또한 제작된 HAE-RAE를 통해 학습한 Intruction Tuned LLM인 "해태(HAE-TAE)"를 공개할 예정입니다.
 
 ## v0 Models
-Models trained using existing data.
+Models trained using existing data for 3 epochs.
 
 |               | Train Dataset   | Backbone Model   |
 |---------------|-----------------|------------------|
