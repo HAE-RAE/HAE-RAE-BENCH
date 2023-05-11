@@ -1,5 +1,10 @@
 # HAE-TAE-Catalog
 
+## About HAE-TAE(HAE-RAE)
+"해례(HAE-RAE)"는 영어로 수집된 데이터셋을 번역하는 것에서 나아가 한국어의 고유한 특성을 반영한 Instruction Dataset을 구축하는 오픈소스 프로젝트입니다.
+
+또한 제작된 HAE-RAE를 통해 학습한 Intruction Tuned LLM인 "해태(HAE-TAE)"를 공개할 예정입니다.
+
 ## v0 Models
 Models trained using existing data.
 
@@ -11,3 +16,31 @@ Models trained using existing data.
 | haetae_v0.2.2 |   KoInstruct-QA |        XGLM 7.5B |
 | haetae_v0.3.1 | KoInstruct-Base |        Polyglot-Ko 3.8B |
 | haetae_v0.3.2 |   KoInstruct-QA |        Polyglot-Ko 3.8B  |
+
+## Current Progress
+#### 2023.5 
+킥 오프, 다양한 방법론을 연구 및 활용해 한국어 Instuction Dataset을 구축 시작
+
+#### 2023.05.11
+한국어 어휘, 독해, 문법, 지식 총 4가지 영역에 걸쳐 언어모델의 능력을 평가하는 벤치마크인 HAE-RAE Bench 프리뷰 공개
+
+
+## HAE-RAE BENCH (Ongoing)
+모든 문제는 사지선다 및 오지선다 문항으로 구성되어있습니다.
+
+|Category       | SubCategory     | Sample Size      | Source   |
+|---------------|-----------------|------------------|------------------|
+|Vocabulary     | Rare Words      | 402  | 우리말겨루기|
+|Vocabulary     | Loan Words      | 166  | NIKL|
+|Vocabulary     | Standard Nomenclature      | 150  | NIKL|
+|Knowledge      | History         | 188  |  |
+|Knowledge      | Culture         | 제작 진행중  |  |
+|Reading Comprehension  | Reading Comprehension | 445  | KLAT    |
+|Grammatical Error Detection  | Grammatical Error Detection | 450  | NIKL    |
+
+#### HAE-RAE BENCH SCORE (Ongoing)
+|Model Name    | KLAT     |Loan Words     | Rare Words      | Standard Nomenclature   | History        |
+|---------------|-----------------|------------------|------------------|------------------|------------------|
+|text-davinci-003    | 60.13%     | 62.27%      | 62.18%   | 58.66%       | 30.27%      |
+|HyperClova lk-d2   | 54.50%     | 83.13%      | 82.34%   | 78%       | 81.62%      |
+|HyperClova lk-d     | 21.17%     | 14.37%      | 44.31%   | 12.66%       | 17.29%      |
