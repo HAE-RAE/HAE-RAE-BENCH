@@ -45,4 +45,18 @@ Models trained using existing data for 3 epochs.
 |HyperClova lk-d2   | 54.50%     | 83.13%      | 82.34%   | 78%       | 81.62%      |
 |HyperClova lk-d     | 21.17%     | 14.37%      | 44.31%   | 12.66%       | 17.29%      |
 
-실험에 대한 자세한 사항은 본 github repository의 HAERAE_BENCH_Preview.pdf를 참고해주시길 바랍니다.
+실험에 대한 자세한 사항은 본 github repository의 HAERAE BENCH (Preview).pdf를 참고해주시길 바랍니다.
+
+## Acknowledgement
+This project is sponsored by OnelineAI(https://www.onelineai.com/)
+
+## Contributors (가나다순)
+김송성 (Benchmark Team 팀원)
+김수완 (Benchmark Team 팀원)
+김정우 (Benchmark Team 팀원)
+김휘서 (Baseline Team 팀원)
+손규진 (Benchmark Team 팀장)
+염제원 (Baseline Team 팀원)
+이재철 (Benchmark Team 팀원)
+이한울 (Baseline Team 팀장)
+정지휴 (Benchmark Team 팀원)
