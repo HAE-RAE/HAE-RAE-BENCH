@@ -44,3 +44,5 @@ Models trained using existing data.
 |text-davinci-003    | 60.13%     | 62.27%      | 62.18%   | 58.66%       | 30.27%      |
 |HyperClova lk-d2   | 54.50%     | 83.13%      | 82.34%   | 78%       | 81.62%      |
 |HyperClova lk-d     | 21.17%     | 14.37%      | 44.31%   | 12.66%       | 17.29%      |
+
+실험에 대한 자세한 사항은 본 github repository의 HAERAE_BENCH_Preview.pdf를 참고해주시길 바랍니다.
