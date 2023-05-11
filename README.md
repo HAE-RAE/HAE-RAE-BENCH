@@ -6,7 +6,7 @@
 또한 제작된 HAE-RAE를 통해 학습한 Intruction Tuned LLM인 "해태(HAE-TAE)"를 공개할 예정입니다.
 
 ## v0 Models
-Models trained using existing data.
+Models trained using existing data for 3 epochs.
 
 |               | Train Dataset   | Backbone Model   |
 |---------------|-----------------|------------------|
@@ -45,10 +45,4 @@ Models trained using existing data.
 |HyperClova lk-d2   | 54.50%     | 83.13%      | 82.34%   | 78%       | 81.62%      |
 |HyperClova lk-d     | 21.17%     | 14.37%      | 44.31%   | 12.66%       | 17.29%      |
 
-실험에 대한 자세한 사항은 본 github repository의 HAERAE Bench (Preview).pdf를 참고해주시길 바랍니다.
-
-
-
-## Acknowledgement
-
-This project is sponsored by OnelineAI(https://www.onelineai.com/)
+실험에 대한 자세한 사항은 본 github repository의 HAERAE_BENCH_Preview.pdf를 참고해주시길 바랍니다.
