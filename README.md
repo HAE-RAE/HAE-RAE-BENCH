@@ -3,8 +3,6 @@
 ## About HAE-TAE(HAE-RAE)
 "해례(HAE-RAE)"는 영어로 수집된 데이터셋을 번역하는 것에서 나아가 한국어의 고유한 특성을 반영한 Instruction Dataset을 구축하는 오픈소스 프로젝트입니다.
 
-또한 제작된 HAE-RAE를 통해 학습한 Intruction Tuned LLM인 "해태(HAE-TAE)"를 공개할 예정입니다.
-
 ## v0 Models
 Models trained using existing data for 3 epochs.
 
