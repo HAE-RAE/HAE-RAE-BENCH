@@ -22,6 +22,8 @@ Models trained using existing data for 3 epochs.
 #### 2023.05.11
 한국어 어휘, 독해, 문법, 지식 총 4가지 영역에 걸쳐 언어모델의 능력을 평가하는 벤치마크인 HAE-RAE Bench 프리뷰 공개
 
+#### 2023.05.23
+논문 작성 완료
 
 ## HAE-RAE BENCH (Ongoing)
 모든 문제는 사지선다 및 오지선다 문항으로 구성되어있습니다.
