@@ -1,6 +1,6 @@
-# HAE-TAE-Catalog
+# HAE-RAE-BENCH
 
-## About HAE-TAE(HAE-RAE)
+## About HAE-RAE
 "해례(HAE-RAE)"는 영어로 수집된 데이터셋을 번역하는 것에서 나아가 한국어의 고유한 특성을 반영한 Instruction Dataset을 구축하는 오픈소스 프로젝트입니다.
 
 ## v0 Models
