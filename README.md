@@ -54,7 +54,7 @@ mT5, KULLM, KoAlpaca 벤치 마크 결과 추가.
   
 
 <details>
-<summary>Polyglot-12.8B Variants (KoAlpaca, KuLLM, KORani)</summary>
+<summary>Polyglot-12.8B Variants (KoAlpaca, KuLLM)</summary>
 <div markdown="1">
 
 | Models            | LW | RW | SN | RC | HI | GK | Av. (w/o KGK) |
