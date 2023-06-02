@@ -39,6 +39,7 @@ mT5, KULLM, Korani 벤치 마크 결과 추가.
 | XGLM-2.9B         | 26.6       | 24.4       | 32.7                 | 32.0                  | 23.4    | 26.7              | 27.6 (27.8)   |
 | XGLM-7.5B         | 37.9       | 25.7       | 41.2                 | 33.6                  | 27.7    | 26.1              | 32.0 (33.2)   |
 | mT5-Base          | 36.1       | 18.8       | 22.9                 | 23.7                  | 19.1    | 25.6              | 24.4 (24.7)   |
+| kullm-v2          | 57.4       | 40.0       | 48.4                 | 38.3                  | 71.8    | 29.0              | 47.5 (51.2)   |     
 
 ## Acknowledgement
 This project is sponsored by OnelineAI(https://www.onelineai.com/)
