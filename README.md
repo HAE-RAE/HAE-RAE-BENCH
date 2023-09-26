@@ -4,6 +4,9 @@
 HAE-RAE Bench는 언어 모델의 한국어 능력(어휘, 역사, 상식, 독해)을 평가하기 위해 제작된 벤치마크 데이터셋입니다.
 
 ## Update Logs
+### 2023.09.26
+[HAE-RAE Bench: Evaluation of Korean Knowledge in Language Models](https://arxiv.org/abs/2309.02706) 페이퍼 아카이브 업데이트
+
 #### 2023.05.11
 한국어 어휘, 독해, 문법, 지식 총 4가지 영역에 걸쳐 언어모델의 능력을 평가하는 벤치마크인 HAE-RAE Bench 프리뷰 공개
 
