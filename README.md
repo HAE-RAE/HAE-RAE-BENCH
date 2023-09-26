@@ -2,6 +2,7 @@
 
 ## About HAE-RAE BENCH
 HAE-RAE Bench는 언어 모델의 한국어 능력(어휘, 역사, 상식, 독해)을 평가하기 위해 제작된 벤치마크 데이터셋입니다.
+Dataset available at : [huggingface](https://huggingface.co/datasets/HAERAE-HUB/HAE_RAE_BENCH)
 
 ## Update Logs
 ### 2023.09.26
